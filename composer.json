@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-font-awesome",
+    "description": "sf-font-awesome",
+    "license": "MIT",
+    "version": "4.6.2",
+    "require": {
+        "larakit/lk-staticfiles": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
